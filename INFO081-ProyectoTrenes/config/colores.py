@@ -2,6 +2,7 @@
 COLOR_FONDO= "#1F2A32" #azul petroleo
 COLOR_PANEL= "#2E3C46" #gris acero
 COLOR_TEXTO= "#E0E0E0" #gris claro
+COLOR_TEXTO_BOTON= "#000000" #gris claro
 COLOR_BOTON= "#FFB703" #amarillo
 COLOR_BOTON_HOVER= "#E09E02" #amarillo mas oscuro
 COLOR_ALERTA= "#F34654" #rojo
