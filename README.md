@@ -27,3 +27,16 @@ La persistencia de datos se gestionará utilizando tres formatos de archivos de 
 * **Formato txt:** Se usará para almacenar información simple, como reportes de errores o un registro de eventos relevantes ocurridos durante la simulación.
 * **Formato csv:** Se empleará para guardar datos en formato de tabla estructurada, permitiendo comparar tiempos de viaje entre estaciones o el tiempo total para completar una ruta.
 * **Formato json:** Será el formato principal para guardar la configuración del sistema (estaciones, rutas, horarios de trenes) y el estado completo de las simulaciones.
+
+### Pasos para Ejecutar
+
+1.  Asegúrese de tener **Python 3** y **Tkinter** instalados.
+2.  Abra una terminal en la carpeta raíz del proyecto (la que contiene `main.py` y las carpetas `ui/`, `logic/`).
+3.  Ejecute el archivo `main.py`:
+
+```bash
+# Ejemplo: Posicionarse en la carpeta raíz del proyecto
+cd "C:\Usuario\ProyectoTrenes\INFO081-ProyectoTrenes\"
+
+# Ejecutar el archivo principal
+python main.py
